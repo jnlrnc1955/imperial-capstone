@@ -32,3 +32,5 @@ The model achieved a true positive prediction of 84% true positive for a single 
 
 The results are statistically significantly better than random selection.
 
+To read the full report open [Capstone Project JL README Predicting outcomes in the governance market.docx](./Capstone_Project_JL_README_Predicting_outcomes_in_the_governance_market.docx)
+
